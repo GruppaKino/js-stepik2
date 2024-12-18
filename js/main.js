@@ -40,4 +40,63 @@
 
 
 
+/* 
+'use strict'
+
+let huetaBlat = false;
+const passText = true;
+
+if (passText) {
+    huetaBlat = true
+}
+
+if (huetaBlat) {
+    console.log('Я имею право водить машину!');
+}
+*/
+
+
+// 'use strict'
+
+// function calk(a, b, c){
+//     return a + b - c;
+// }
+
+// const ser = calk(20, 4, 15);
+// console.log(ser)
+
+// 'use strict'
+
+// let a = 3;
+// function myFunction(){
+//     function myFunction2() {
+//         console.log(a);
+//     }
+//     myFunction2();
+// }
+// myFunction();
+
+// let a;
+// let b;
+
+// function myFn() {
+//     let b;
+//     a = true;
+//     b = 5;
+//     console.log(b)
+// }
+
+// myFn();
+
+// console.log(a);
+// console.log(b);
+
+
+// 'use strict'
+
+// function myFn(a = "Ваше число ", b = 3){
+//     console.log(a + b)
+// }
+
+// myFn('Номер вашего билета: ');
 
